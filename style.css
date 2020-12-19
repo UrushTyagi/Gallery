@@ -1,0 +1,99 @@
+a:hover{
+  color:white;
+}
+p{
+  line-height: 2;
+font-family: 'Exo 2', sans-serif;
+}
+h2{
+  font-family: 'Lemonada', cursive;
+  color: #050606;
+}
+.top-container {
+  margin-top: 0px;
+  line-height: 7;
+word-spacing: 20px;
+  padding: 0 0 20px 0;
+  background-color: #000000;
+text-align: center;
+left: 0;
+right: 0;
+top: 0;
+width: 100%;
+position: absolute;
+}
+.top-container-contact {
+  margin-top: 0px;
+  line-height: 7;
+word-spacing: 20px;
+  padding: 0 0 20px 0;
+  background-color: #f2f2f2;
+
+text-align: center;
+left: 0;
+right: 0;
+top: 0;
+width: 100%;
+
+}
+.link-contact {
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+.link {
+   color: grey;
+   font-family: 'Montserrat', sans-serif;
+   text-decoration: none;
+}
+.bottom-container {
+    margin-top: 30px;
+    line-height: 3;
+    background-color: #000000;
+    word-spacing: 20px;
+    padding: 0 0 20px 0;
+    text-align: center;
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer-link{
+   color: grey;
+   font-family: 'Montserrat', sans-serif;
+   text-decoration: none;
+ }
+.copyright {
+  color: grey;
+}
+.footer-link:hover{
+  color: white;
+}
+.aboutmecontainer{
+  margin: 40px 0;
+}
+.about-me-details {
+
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1;
+  padding-top: 50px;
+}
+.paragraph {
+  width: 80%;
+  margin-left: 70px;
+  color: grey;
+}
+.aboutmeh3 {
+  color: white;
+}
+.top-container-about {
+  line-height: 7;
+word-spacing: 20px;
+}
+.mypic {
+  float: left;
+  margin-right: 200px;
+  padding-bottom: 20px;
+}
